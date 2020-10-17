@@ -9,3 +9,9 @@
 - Place: Semarang, Indonesia
 - Bio: Maintener. -
 - GitHub: [syouryuumaru](https://github.com/syouryuumaru)
+
+#### Name: Jerald
+
+- Place: Singapore
+- Bio: Computer Science
+- GitHub: [jeraldlyh](https://github.com/jeraldlyh)
