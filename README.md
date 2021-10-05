@@ -1,9 +1,7 @@
 # 💻 WELCOME TO THE HACKTOBERFEST STARTERPACK! 💻
 ## Hello friends! ,
 ## What is Hacktoberfest?
-Hacktoberfest is a movement to contribute and support the [Open Source] project (https://github.com/open-source) which is supported by [Digital Ocean] (https://hacktoberfest.digitalocean.com/) and [GitHub] ( https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). Held in October every year. To follow suit Make your first pull request to any public repository on GitHub to contribute to the open source developer community.
-
-(https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a movement to contribute and support the [Open source project](https://github.com/open-source) which is supported by [Digital Ocean](https://www.digitalocean.com/) and [GitHub]( https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). Held in October every year. To follow suit Make your first pull request to any public repository on GitHub to contribute to the open source developer community.
 
 ## How To Contribute To This Project
 How to:
@@ -89,7 +87,7 @@ give a file name like this `hello_world_yourusername.xx`. or, `hello_world_ceeee
 * Commit and push
 
 ```markdown
-git add.
+git add .
 git commit -m 'Add it "hacktoberfest"'
 git push origin branch-name
 ```
