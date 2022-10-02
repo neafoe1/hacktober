@@ -9,3 +9,9 @@
 - Place: Semarang, Indonesia
 - Bio: Maintener. -
 - GitHub: [syouryuumaru](https://github.com/syouryuumaru)
+
+#### Name: Striky
+
+- Place: Maharashtra, India
+- Bio: Web Developer
+- GitHub: [striky](https://github.com/adityahajari14)
