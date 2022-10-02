@@ -18,7 +18,7 @@ High School
 
 ### Projects
 
-- [scalermedia] (GitHub Link) Short description
+- [scalermedia]
 
 ### Profile Link
 
